@@ -29,4 +29,5 @@ Original image :
 ![Original image](https://schnappy.xyz/assets/noidea.jpg)  
 
 Image converted to bin, then back to pgm :  
-[![PGM greyscale image](https://schnappy.xyz/assets/noidea_gs.jpg)](https://schnappy.xyz/assets/noidea.pgm)  
+![PGM greyscale image](https://schnappy.xyz/assets/noidea_gs.jpg)  
+[PGM file](https://schnappy.xyz/assets/noidea.pgm)  
